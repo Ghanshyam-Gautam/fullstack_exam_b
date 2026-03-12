@@ -18,6 +18,7 @@ const WorkoutPage = () => {
     <div className="rental-preview">
       <h2>Workout Details</h2>
       <p>TODO: Implement this page</p>
+      <p>Github branch testing  </p>
     </div>
   );
 };

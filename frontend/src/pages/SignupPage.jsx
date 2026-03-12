@@ -43,7 +43,7 @@ const SignupPage = () => {
           onChange={(e) => setPassword(e.target.value)}
           required
         />
-        <label>Phone Number:</label>
+        <label>Phone_Number:</label>
         <input
           type="text"
           value={phone_number}
